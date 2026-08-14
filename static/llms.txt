@@ -1,0 +1,32 @@
+# 기억의 창고 | YongsanKim Archive
+> 용산의 군사 공간, 도시 변화, 공원 전환을 기록 사진, 항공뷰, 현장 조사 자료, 세미나 기록으로 읽는 디지털 아카이브입니다.
+
+## About
+YongsanKim Archive(용산킴 아카이브)는 서울 용산 지역의 미군 기지 역사, 도시 변화, 공원 전환 과정을 기록 사진, 항공뷰, 현장 조사 자료, 세미나 기록을 통해 기록하고 탐색할 수 있는 디지털 아카이브입니다.
+
+Website: https://yongsankim.pages.dev/
+
+## Main Sections
+
+### 탐색
+- [아카이브 자료](/items): 기록물 원본 파일, 미군기지와 도시산책, kim의 사관
+- [촬영자](/creators): 촬영자별 자료 탐색
+- [생산장소](/venues): 용산 지역 장소별 탐색 (삼각지, 남영동, 녹사평역, 숙명여자대학교 등)
+- [생산기관](/sources): 생산기관별 탐색
+- [주제](/subjects): 주제별 탐색
+
+### 정보
+- [포스트](/posts): 블로그 및 뉴스
+- [전시](/exhibition): 전시 자료
+
+## Languages
+- Korean (default): /
+- English: /en/
+
+## Contact
+문의: hello@textconsulting.io
+
+## Technical Information
+- Built with Hugo
+- Hosted on Cloudflare Pages
+- Last updated: 2026-08-14
