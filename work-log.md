@@ -1,3 +1,10 @@
+## 2026-11-27 KST — Google Search Console 연동·SEO 키워드 등록 (archivej #40)
+
+- GSC 사이트 등록·sitemap 제출·검증 완료(tcgc.uk 계열은 도메인 검증 커버).
+- 소유권 검증 메타 태그 반영 + API 검증 완료. docuteller.space 도메인 속성은 DNS TXT 대기.
+- SEO 대상 키워드 config 등록: yongsankim, 용산킴, 용산킴 아카이브, YongsanKim archives
+- 키워드 노출 데이터는 `plans/gsc/gsc_tool.py sync` 보고서로 정기 집계. 상세: archivej #40.
+
 ## 2026-11-16 KST — 커스텀 도메인 ys.docuteller.space 연결 (yongsankim #1)
 
 - 소유자 지시("yongsankim 사이트 도메인을 ys.docuteller.space") → [yongsankim #1](https://github.com/text-consulting-group/yongsankim/issues/1) 신설·처리.
